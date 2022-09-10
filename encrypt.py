@@ -2,7 +2,7 @@ import base64
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
-data = 'Gerardo Pitudo'
+data = 'USAC 2022'
 
 key = 'AAAAAAAAAAAAAAAA'
 

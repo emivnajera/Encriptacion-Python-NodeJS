@@ -1,6 +1,6 @@
 var CryptoJS = require("crypto-js");
 
-var message = "Gerardo Pitudo";
+var message = "USAC 2022";
 var key = "AAAAAAAAAAAAAAAA"; //key used in Python
 key = CryptoJS.enc.Utf8.parse(key);
 
